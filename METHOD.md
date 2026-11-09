@@ -10,7 +10,7 @@ active-passive versus active-active?
 ## How to run
 
 ```
-node run.mjs
+node simulate-failover.mjs
 ```
 
 Node.js 22, standard library only. No npm packages, no network, no child processes, no files written.

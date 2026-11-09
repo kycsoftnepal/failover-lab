@@ -13,7 +13,7 @@ The survivor pays: p95 latency for successful requests went from 79.1 ms to 87.8
 
 ```sh
 node --version   # Node 22 or newer
-node run.mjs     # under a second, standard library only
+node simulate-failover.mjs     # under a second, standard library only
 cat results.json # the numbers above come from this file
 ```
 
